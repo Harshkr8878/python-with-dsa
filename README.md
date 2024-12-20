@@ -1,2 +1,2 @@
 # python-with-dsa
-this is my python with dsa learning repository
+this is DSA with python learning repository
